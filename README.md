@@ -2,7 +2,7 @@
 
 Programming tournament of the EDA (Data Structures and Algorithms) course at FIB-UPC.
 
-🏆 My player **Yuta5** (in `/joc/MY_PLAYERS/`) survived **296 of 302** elimination rounds, finishing in the **top 8**.
+🏆 My player **Yuta5** (in `/joc/MY_PLAYERS/`) survived **294 of 302** elimination rounds, finishing in the **top 8**.
 
 ## Usage
 
